@@ -1,0 +1,13 @@
+1.java simple code(if condition,for loop,while true)
+2.java method
+3.git and GitHub(push)
+4.java-->type cast(double,String,int,etc)
+5.reference(just idea)
+6.java object and class(login system practice)
+7.java inheritance
+
+
+
+
+
+

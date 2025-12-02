@@ -1,0 +1,12 @@
+git init
+git add .
+git add Main.java(if I add random folder or file)
+git commit -m "....."
+git branch 
+git remote add origin <link github><file name>.git
+git push -u origin master
+
+6.(branch create)-->git checkout -b test
+7.(branch switch)-->git checkout test/master/any branch
+8.(branch delete locally)-->git branch -d test
+9.(branch delete on GitHub)-->git push origin --delete test
